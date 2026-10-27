@@ -1,9 +1,0 @@
-{
-  "name": "FLEXI — Your study space",
-  "short_name": "FLEXI",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#f7f7fb",
-  "theme_color": "#7165ed",
-  "icons": []
-}
